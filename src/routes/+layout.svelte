@@ -23,7 +23,7 @@
 			<svelte:fragment slot="trail">
 				<a
 					class="btn btn-lg variant-filled-primary"
-					href="/register"
+					href="{base}/register"
 					rel="noreferrer"
 				>
 					Register
