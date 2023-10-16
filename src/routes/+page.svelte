@@ -43,7 +43,7 @@
 								<dl class="list-dl">
 									{#each rules as rule, index}
 									<div>
-										<span class="badge-icon p-4 variant-soft-secondary">1</span>
+										<span class="badge-icon p-4 variant-soft-secondary">{index}</span>
 										<span class="flex-auto">
 											<dt class="font-bold">{rule.summary}</dt>
 											<dd class="text-sm opacity-50">{rule.description}</dd>
