@@ -19,7 +19,7 @@ const config = {
 		adapter: adapter(),
 		paths:{
 			base: "/k12cachevalleychess"
-		}	
+		}
 	},
 };
 export default config;
