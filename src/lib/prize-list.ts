@@ -11,6 +11,7 @@ export const prizes = [
             {grade:"senior", top:[{place:"first", prize:"$45"},{place: "second", prize:"$30"},{place: "third", prize:"$10"}]},
             {grade:"junior", top:[{place:"first", prize:"$45"},{place: "second", prize:"$30"},{place: "third", prize:"$10"}]},
             {grade:"sophomore", top:[{place:"first", prize:"$45"},{place: "second", prize:"$30"},{place: "third", prize:"$10"}]},
+			{grade:"freshmen", top:[{place:"first", prize:"$45"},{place: "second", prize:"$30"},{place: "third", prize:"$10"}]},
         ],
 	},
 	{
