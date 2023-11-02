@@ -2,6 +2,7 @@
 
 	import { Accordion, AccordionItem, TreeView, TreeViewItem } from "@skeletonlabs/skeleton";
 	import {prizes} from "$lib/prize-list";
+	import { schedules } from "$lib/schedule";
 	const rules = [
 		{summary:"Play all your games", description: "In order to win any prize money or trophy, you must play all rounds"},
 		{summary:"Have lived in Cache Valley", description: "You must have lived in Cache Valley sometime in your life and can prove it"},
@@ -54,6 +55,19 @@
 							</div>
 						</section>
 						<footer class="card-footer"></footer>
+					</div>
+				</svelte:fragment>
+			</AccordionItem>
+			<AccordionItem>
+				<svelte:fragment slot="lead"><svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M464 256A208 208 0 1 1 48 256a208 208 0 1 1 416 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM232 120V256c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.4 33.3-6.7s4.4-25.9-6.7-33.3L280 243.2V120c0-13.3-10.7-24-24-24s-24 10.7-24 24z"/></svg></svelte:fragment>
+				<svelte:fragment slot="summary">Schedule</svelte:fragment>
+				<svelte:fragment slot="content">
+					<div class="card w-full max-w-[480px]">
+						<ol class="list">
+							{#each schedules as schedule}
+							<li><span class="text-primary-500">{schedule.name}</span> : {schedule.schedule}</li>
+							{/each}
+						</ol>
 					</div>
 				</svelte:fragment>
 			</AccordionItem>
