@@ -15,15 +15,15 @@
 				<img {src} class="bg-black/50 aspect-[21/9]" alt="kids/playing" />
 			</header>
 			<div class="p-4 space-y-4">
-				<h6 class="h6" data-toc-ignore>6th Warren Pugh Memorial K-12 Chess Tournament</h6>
+				<h6 class="h6" data-toc-ignore>7th Warren Pugh Memorial K-12 Chess Tournament</h6>
 				
 				<article class="text-center">
-					<p class="text-primary-400">November 10 & 11, 2023</p>
-					<p>1st Presbyterian Church 200 W Center St, Logan UT</p>
+					<p class="text-primary-400">November 9 & 16, 2024</p>
+					<p>Logan Library 285 N Main St. Logan, UT</p>
 				</article>
 				<article>
-					<p>Registration is free<sup>1</sup> and closes November 8, 2023.</p>
-					<p >You can register by emailing <a class="text-primary-500" href="mailto:minkman5052@yahoo.com?subject=6th%20Warren%20Pugh%20Memorial%20K-12%20Chess%20Tournament&body=Full%20name%3A%0ABirthdate%3A%0AGrade%3A%0AAddress%3A%0APhone%20Number%3A">minkman5052@yahoo.com</a>. We'll need your:</p>
+					<p>Registration is free<sup>1</sup> and closes November 7, 2024 for Elementary and November 14, 2024 for Secondary</p>
+					<p >You can register by emailing <a class="text-primary-500" href="mailto:bruce@cachechess.com?subject=7th%20Warren%20Pugh%20Memorial%20K-12%20Chess%20Tournament&body=Full%20name%3A%0ABirthdate%3A%0AGrade%3A%0AAddress%3A%0APhone%20Number%3A">bruce@cachechess.com</a>. We'll need your:</p>
 					<ul>
 						<li>Name</li>
 						<li>Birthdate</li>

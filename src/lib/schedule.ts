@@ -1,5 +1,5 @@
 export const schedules = [
-    {name: "High School", schedule: "Friday 7 PM- 9 PM, Saturday 10 AM - 4PM"},
-    {name: "Middle School", schedule: "Friday 7 PM- 9 PM, Saturday 10 AM - 4PM"},
-    {name: "Elementary", schedule: "Friday 7 PM- 9 PM, Saturday 8 AM - 2PM"},
+        {name: "High School", schedule: "Saturday, November 16th 1PM - 6PM"},
+        {name: "Middle School", schedule: "Saturday, November 16th 1PM - 6PM"},
+        {name: "Elementary School", schedule: "Saturday, November 9th 1PM - 6PM"},
 ];
