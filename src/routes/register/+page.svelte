@@ -23,21 +23,19 @@
 				</article>
 				<article>
 					<p>Registration is free<sup>1</sup> and closes March 14, 2025 for Elementary and March 21, 2025 for Secondary</p>
-					<p >You can register <a href="https://forms.gle/pRs6XKTVvD8BgwYx9">here (preferred)</a> or by emailing <a class="text-primary-500" href="mailto:bruce@cachechess.com?subject=7th%20Warren%20Pugh%20Memorial%20K-12%20Chess%20Tournament&body=Full%20name%3A%0ABirthdate%3A%0AGrade%3A%0AAddress%3A%0APhone%20Number%3A">bruce@cachechess.com</a>. We'll need your:</p>
-					<ul>
-						<li>Name</li>
-						<li>Birthdate</li>
-						<li>Grade</li>
-						<li>Address</li>
-						<li>Phone Number</li>
-					</ul>
+					<p >You can register <a class="btn btn-sm variant-filled-primary" href="https://forms.gle/pRs6XKTVvD8BgwYx9">here (preferred)</a> or by emailing <a class="text-primary-500" href="mailto:bruce@cachechess.com?subject=7th%20Warren%20Pugh%20Memorial%20K-12%20Chess%20Tournament&body=Full%20name%3A%0ABirthdate%3A%0AGrade%3A%0AAddress%3A%0APhone%20Number%3A">bruce@cachechess.com</a>.
 					
 					<p>There will <strong>not</strong> be on site registration</p>
 				</article>
+				<article>
+					This event is genrously sponsored by <a class="text-primary-500" href="https://www.cvmrotary.org/">Cache Valley Morning Rotary</a>
+				</article>
 			</div>
+			
 			<hr class="opacity-50" />
 			<footer class="p-4 flex justify-start items-center space-x-4">
 				<div class="flex justify-between items-center">
+						
 						<p><small>While registration is free, we strongly suggest that you donate to <a class="text-primary-500" href="https://cachefood.org/">Cache Community Food Pantry</a>.</small></p>&nbsp;
 						<p><small>You can bring a can of food to the event or <a class="text-primary-500" href="https://cachefood.org/donate">donate directly.</a></small></p>
 				</div>
