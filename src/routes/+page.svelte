@@ -40,23 +40,13 @@
 				/></svg
 			>
 		</figure>
-
-		<h2 class="h2 text-center">7th Annual Warren Pugh Memorial K-12 Chess Tournament</h2>
+		<h2 class="h1 text-center">8th Annual Warren Pugh Memorial K-12 Chess Tournament</h2>
+		<h2 class="h2 text-center">15th & 22nd of March 2025</h2>
 		<h3 class="h3 text-center">
 			Welcome to our tournament! Here you will find all the information you need to play with us!
 		</h3>
 		<article class="text-center">
 			<h3 class="text-primary-400 h3 pb-8">Logan Library 285 N Main St. Logan, UT 84321</h3>
-			<iframe
-				title="Logan Library Location"
-				src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5252.848058569744!2d-111.83781672262405!3d41.736482474266914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87547e0c997653f7%3A0x1a4a3afa0ca3f5e6!2sLogan%20Library!5e1!3m2!1sen!2sus!4v1728703893202!5m2!1sen!2sus"
-				width="600"
-				height="450"
-				style="border:0;"
-				allowfullscreen={false}
-				loading="lazy"
-				referrerpolicy="no-referrer-when-downgrade"
-			/>
 		</article>
 
 		<!-- <hr /> -->

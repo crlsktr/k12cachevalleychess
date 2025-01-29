@@ -8,10 +8,10 @@ export const prizes = [
 			{ place: 'third', prize: '$50' }
 		],
 		grades: [
-			{grade:"senior", top:[{place:"first", prize:"$45 & Trophy"},{place: "second", prize:"$10 & Trophy"},{place: "third", prize:"Trophy"}]},
-			{grade:"junior", top:[{place:"first", prize:"$45 & Trophy"},{place: "second", prize:"$10 & Trophy"},{place: "third", prize:"Trophy"}]},
-			{grade:"sophomore", top:[{place:"first", prize:"$45 & Trophy"},{place: "second", prize:"$10 & Trophy"},{place: "third", prize:"Trophy"}]},
-			{grade:"freshmen", top:[{place:"first", prize:"$45 & Trophy"},{place: "second", prize:"$10 & Trophy"},{place: "third", prize:"Trophy"}]},
+			{grade:"senior", top:[{place:"first", prize:"$45 & Trophy"},{place: "second", prize:"$30"},{place: "third", prize:"$10"}]},
+			{grade:"junior", top:[{place:"first", prize:"$45 & Trophy"},{place: "second", prize:"$30"},{place: "third", prize:"$10"}]},
+			{grade:"sophomore", top:[{place:"first", prize:"$45 & Trophy"},{place: "second", prize:"$30"},{place: "third", prize:"$10"}]},
+			{grade:"freshmen", top:[{place:"first", prize:"$45 & Trophy"},{place: "second", prize:"$30"},{place: "third", prize:"$10"}]},
 		],
 	},
 	{
@@ -22,9 +22,9 @@ export const prizes = [
 			{ place: 'third', prize: '$50' }
 		],
 		grades: [
-			{grade:"8th Grade", top:[{place:"first", prize:"$45 & Trophy"},{place: "second", prize:"$10 & Trophy"},{place: "third", prize:"Trophy"}]},
-			{grade:"7th Grade", top:[{place:"first", prize:"$45 & Trophy"},{place: "second", prize:"$10 & Trophy"},{place: "third", prize:"Trophy"}]},
-			{grade:"6th Grade", top:[{place:"first", prize:"$45 & Trophy"},{place: "second", prize:"$10 & Trophy"},{place: "third", prize:"Trophy"}]},
+			{grade:"8th Grade", top:[{place:"first", prize:"$45 & Trophy"},{place: "second", prize:"$30 & Trophy"},{place: "third", prize:"$10"}]},
+			{grade:"7th Grade", top:[{place:"first", prize:"$45 & Trophy"},{place: "second", prize:"$30 & Trophy"},{place: "third", prize:"$10"}]},
+			{grade:"6th Grade", top:[{place:"first", prize:"$45 & Trophy"},{place: "second", prize:"$30 & Trophy"},{place: "third", prize:"$10"}]},
 		],
 	},
 	{
