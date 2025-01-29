@@ -41,7 +41,8 @@
 			>
 		</figure>
 		<h2 class="h1 text-center">8th Annual Warren Pugh Memorial K-12 Chess Tournament</h2>
-		<h2 class="h2 text-center">15th & 22nd of March 2025</h2>
+		<h2 class="h2 text-center">Elementary 15th of March 2025</h2>
+		<h2 class="h2 text-center">Secondary 22nd of March 2025</h2>
 		<h3 class="h3 text-center">
 			Welcome to our tournament! Here you will find all the information you need to play with us!
 		</h3>
