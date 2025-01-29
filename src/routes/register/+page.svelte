@@ -23,12 +23,18 @@
 				</article>
 				<article>
 					<p>Registration is free<sup>1</sup> and closes March 14, 2025 for Elementary and March 21, 2025 for Secondary</p>
-					<p >You can register <a class="btn btn-sm variant-filled-primary" href="https://forms.gle/pRs6XKTVvD8BgwYx9">here (preferred)</a> or by emailing <a class="text-primary-500" href="mailto:bruce@cachechess.com?subject=7th%20Warren%20Pugh%20Memorial%20K-12%20Chess%20Tournament&body=Full%20name%3A%0ABirthdate%3A%0AGrade%3A%0AAddress%3A%0APhone%20Number%3A">bruce@cachechess.com</a>.
+					<p >You can register:
+						<ul>
+							<li>March 15th <a class="btn btn-sm variant-filled-primary" href="https://forms.gle/LkEdnnPVSk6Q1FnC7">Elementary</a></li>
+							<li>or</li>
+							<li>March 22nd <a class="btn btn-sm variant-filled-primary" href="https://forms.gle/HQbEhRPx9aBhjQi46">Secondary</a></li>
+						</ul>
+						  or by emailing <a class="text-primary-500" href="mailto:bruce@cachechess.com?subject=7th%20Warren%20Pugh%20Memorial%20K-12%20Chess%20Tournament&body=Full%20name%3A%0ABirthdate%3A%0AGrade%3A%0AAddress%3A%0APhone%20Number%3A">bruce@cachechess.com</a>.
 					
 					<p>There will <strong>not</strong> be on site registration</p>
 				</article>
 				<article>
-					This event is genrously sponsored by <a class="text-primary-500" href="https://www.cvmrotary.org/">Cache Valley Morning Rotary</a>
+					This event is generously sponsored by <a class="text-primary-500" href="https://www.cvmrotary.org/">Cache Valley Morning Rotary</a>
 				</article>
 			</div>
 			
