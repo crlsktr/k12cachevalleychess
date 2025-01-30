@@ -48,6 +48,7 @@
 		</h3>
 		<article class="text-center">
 			<h3 class="text-primary-400 h3 pb-8">Logan Library 285 N Main St. Logan, UT 84321</h3>
+			<p><small>Not a library sponsored event</small></p>
 		</article>
 
 		<!-- <hr /> -->

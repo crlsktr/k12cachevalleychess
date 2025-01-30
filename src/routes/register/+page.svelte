@@ -20,6 +20,7 @@
 				<article class="text-center">
 					<p class="text-primary-400">March 15 & 22, 2025</p>
 					<p>Logan Library 285 N Main St. Logan, UT</p>
+					<p><small>not a library sponsored activity</small></p>
 				</article>
 				<article>
 					<p>Registration is free<sup>1</sup> and closes March 14, 2025 for Elementary and March 21, 2025 for Secondary</p>
