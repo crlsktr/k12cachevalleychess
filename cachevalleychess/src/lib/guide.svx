@@ -1,0 +1,42 @@
+
+## Start
+Start by listening to the following video: https://youtu.be/ej_fnsdsksA
+
+## Pieces Value
+Realize the value of each piece (the higher the number, the greater value of the piece):
+- Pawn is worth 1
+- Knight is worth 3
+- Bishop is worth 3.25
+- Rook is worth 5
+- Queen is worth 9
+- King is worth the whole game; but is about 3 in strength
+
+Realize that a pawn when it reaches the other side of the board can become another queen (you can have a number of queens on the board at the same time if pawns are promoted by moving the the opposite side of the board). A pawn may be worth only 1 initially. However, a pawn may become a queen and be worth 9!
+
+
+## Special moves
+Learn how to castle and what makes castling impossible. You cannot castle if:
+- The king is in check at the moment you want to castle
+- The king cannot cross a square when he would be in check if he remained there
+- You cannot castle if you move the king
+- You cannot castle if the rook you want to castle with has moved before
+- You cannot castle if there are other pieces between the king and rook
+
+## Play a lot
+Play a lot of chess games and try to learn from your mistakes. There's really no substitute for practice!
+
+## Notation
+It is very useful to learn chess notation that is found in chess books and on the Internet and record your games.  Then you can play them over and over again and learn from your mistakes. See the following to learn how: https://www.youtube.com/watch?v=RbCKgjYh8So
+Search for chess on You Tube and study the free videos.  Some videos are better than others, but you usually cannot go wrong if the author is a grandmaster (Usually abbreviated as GM; they are tried and tested and are very good chess players).  Nelson Lopez has a great series of chess videos.  I especially like the one on his playlist “Beginner to master rating climb 2004”: https://www.youtube.com/@ChessVibesOfficial
+
+## Other sources
+Chess.com and lichess.org are two very reliable sources of chess videos.
+
+## Strategy
+Here is a sample video that teaches about this subject
+https://www.youtube.com/watch?v=Ohf79-nlekc
+
+## An amazing resource!
+All issues of Chess Life & Review that are at least one year old are now available online for free! You can download the PDF for each month.  This is just awesome!  You can learn so much from this magazine and now these older issues are free.  I recommend that everyone download the Oct. 1979 issue and learn how to checkmate with a bishop and knight alone. It is found on page 581-583.  Access to this archive is like someone just gave you $500+ towards your chess education!! Please visit the following website and enjoy this resource:  
+Chess Life and Review Magazine Archive
+ https://new.uschess.org/chess-life-digital-archives
