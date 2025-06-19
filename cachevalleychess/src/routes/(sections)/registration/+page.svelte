@@ -1,1 +1,0 @@
-<h2>registration</h2>
