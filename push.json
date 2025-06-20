@@ -1,9 +1,7 @@
 {
-	"github": {
-		"event":{
-			"repository":{
-				"name":"k12cachevalleychess/"
-			}
+	"event": {
+		"repository": {
+			"name": "k12cachevalleychess/"
 		}
 	}
 }

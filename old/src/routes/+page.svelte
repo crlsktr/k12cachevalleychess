@@ -25,8 +25,8 @@
 	];
 </script>
 
-<div class="container h-full mx-auto flex justify-center items-center">
-	<div class="space-y-10 flex flex-col items-center">
+<div class="container mx-auto flex h-full items-center justify-center">
+	<div class="flex flex-col items-center space-y-10">
 		<figure>
 			<section class="img-bg" />
 			<svg xmlns="http://www.w3.org/2000/svg" height="2em" viewBox="0 0 512 512"
@@ -74,11 +74,11 @@
 				<svelte:fragment slot="content">
 					<div class="card">
 						<section class="space-y-4">
-							<div class="w-full text-token card p-4 space-y-4">
+							<div class="text-token card w-full space-y-4 p-4">
 								<dl class="list-dl">
 									{#each rules as rule, index}
 										<div>
-											<span class="badge-icon p-4 variant-soft-secondary">{index}</span>
+											<span class="badge-icon variant-soft-secondary p-4">{index}</span>
 											<span class="flex-auto">
 												<dt class="font-bold">{rule.summary}</dt>
 												<dd class="text-sm opacity-50">{rule.description}</dd>
@@ -168,15 +168,17 @@
 		white-space: unset;
 	}
 	figure {
-		@apply flex relative flex-col;
+		@apply relative flex flex-col;
 	}
 	figure svg,
 	.img-bg {
-		@apply w-64 h-64 md:w-80 md:h-80;
+		@apply h-64 w-64 md:h-80 md:w-80;
 	}
 	.img-bg {
 		@apply absolute z-[-1] rounded-full blur-[50px] transition-all;
-		animation: pulse 5s cubic-bezier(0, 0, 0, 0.5) infinite, glow 5s linear infinite;
+		animation:
+			pulse 5s cubic-bezier(0, 0, 0, 0.5) infinite,
+			glow 5s linear infinite;
 	}
 	@keyframes glow {
 		0% {
