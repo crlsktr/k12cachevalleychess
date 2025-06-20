@@ -1,12 +1,11 @@
 <script lang="ts">
 	import Socialfeed from '$lib/socialfeed.svelte';
-	import '../../app.css'
+	import '../../app.css';
 	let { children } = $props();
 </script>
 
-
 <!-- Page -->
-<div class="container mx-auto grid grid-cols-1 xl:grid-cols-[200px_minmax(0px,_1fr)_400px]"> 
+<div class="container mx-auto grid grid-cols-1 xl:grid-cols-[200px_minmax(0px,_1fr)_400px]">
 	<!-- Sidebar (Left) -->
 	<!-- NOTE: hidden in smaller screen sizes -->
 	<aside class="sticky top-0 col-span-1 hidden h-screen p-4 xl:block"></aside>

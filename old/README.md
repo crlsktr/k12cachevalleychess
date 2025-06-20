@@ -1,9 +1,11 @@
 # Cache Valley k-12 Chess Tournament
+
 Hi, I created this repo and svelte-kit project to easily make a website for each annual tournament.
 I tried to leave most variable things in the $lib but I'll be cleaning up the components and other variable things like the tourney date soon.
 
 ## Contributing
-Not really expecting PR's but if you want to help let me know. 
+
+Not really expecting PR's but if you want to help let me know.
 
 # create-svelte
 

@@ -54,11 +54,11 @@
 			<div class="flex items-center gap-4">
 				<!-- <Icon name="skeleton" size={20} /> -->
 				<p class="text-xs opacity-60">
-					Built with ❤, <a class="underline" href="https://www.skeleton.dev/" target="_blank">Skeleton</a>
-					and 
-					<a href="https://kit.svelte.dev/"
-						target="_blank"
-						class="underline">SvelteKit</a>.
+					Built with ❤, <a class="underline" href="https://www.skeleton.dev/" target="_blank"
+						>Skeleton</a
+					>
+					and
+					<a href="https://kit.svelte.dev/" target="_blank" class="underline">SvelteKit</a>.
 				</p>
 			</div>
 			<!-- Social -->
