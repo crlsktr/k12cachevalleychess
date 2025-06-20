@@ -2,6 +2,7 @@
 	const current_tournament = false;
 	const tournament = {};
 </script>
+
 {#if current_tournament}
 	<div class="items-top container mx-auto flex h-full justify-center">
 		<div class="flex flex-col items-center space-y-10">

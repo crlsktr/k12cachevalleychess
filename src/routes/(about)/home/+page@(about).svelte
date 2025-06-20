@@ -5,13 +5,13 @@
 
 <article>
 	<header class="flex justify-center">
-		<div class="place-content-center md:inline-block p-12">
+		<div class="place-content-center p-12 md:inline-block">
 			<h2 class="h1 text-primary-500 md:align-middle">Cache Chess</h2>
 			<span>Home of the Warren Pugh Chess Tournament</span>
 		</div>
 	</header>
-	
-	<div class="flex flex-col md:flex-row-reverse md:justify-center md:justify-items-start gap-4">
+
+	<div class="flex flex-col gap-4 md:flex-row-reverse md:justify-center md:justify-items-start">
 		<Socialfeed></Socialfeed>
 		<div
 			class="card preset-filled-surface-100-900 border-surface-200-800 card-hover divide-surface-200-800 block max-w-md divide-y border-[1px] p-4 lg:max-w-4xl"
@@ -132,9 +132,11 @@
 				page 581-583. Access to this archive is like someone just gave you $500+ towards your chess education!!
 				Please visit the following website and enjoy this resource:
 			</p>
-			<a class="text-primary-500" href="https://new.uschess.org/chess-life-digital-archives" target="_blank"
-					>Chess Life and Review Magazine Archive</a>
-			
+			<a
+				class="text-primary-500"
+				href="https://new.uschess.org/chess-life-digital-archives"
+				target="_blank">Chess Life and Review Magazine Archive</a
+			>
 		</div>
 	</div>
 </article>
