@@ -1,5 +1,5 @@
 <script>
-	const current_tournament = false;
+	const current_tournament = true;
 	const tournament = {};
 </script>
 
@@ -12,31 +12,30 @@
 					<!-- <img {src} class="bg-black/50 aspect-[21/9]" alt="kids/playing" /> -->
 				</header>
 				<div class="space-y-4 p-4">
-					<h6 class="h6" data-toc-ignore>8th Warren Pugh Memorial K-12 Chess Tournament</h6>
+					<h6 class="h6" data-toc-ignore>9th Warren Pugh Memorial K-12 Chess Tournament</h6>
 
 					<article class="text-center">
-						<p class="text-primary-400">March 15 & 22, 2025</p>
+						<p class="text-primary-400">March 7, 2026</p>
 						<p>Logan Library 285 N Main St. Logan, UT</p>
 						<p><small>not a library sponsored activity</small></p>
 					</article>
 					<article>
 						<p>
-							Registration is free<sup>1</sup> and closes March 14, 2025 for Elementary and March 21,
-							2025 for Secondary
+							Registration is free<sup>1</sup> and closes February 28, 2026
 						</p>
 						<p>You can register:</p>
 						<ul>
 							<li>
-								March 15th <a
-									class="btn btn-sm variant-filled-primary"
-									href="https://forms.gle/LkEdnnPVSk6Q1FnC7">Elementary</a
+								<a
+									class="btn btn-sm preset-outlined-primary-200-800 variant-filled-primary"
+									href="https://forms.gle/jev5oQsUTHnuFCGY9">Elementary</a
 								>
 							</li>
 							<li>or</li>
 							<li>
-								March 22nd <a
-									class="btn btn-sm variant-filled-primary"
-									href="https://forms.gle/kWScB36rWHYDG5JA6">Secondary</a
+								<a
+									class="btn btn-sm preset-outlined-primary-200-800 variant-filled-primary"
+									href="https://forms.gle/t5CrbxMMsKhVYsKh7">Secondary</a
 								>
 							</li>
 						</ul>

@@ -14,7 +14,7 @@
 		"lint": "prettier --check . && eslint ."
 	},
 	"dependencies": {
-		"@lucide/svelte": "^0.513.0"
+		"@lucide/svelte": "^0.518.0"
 	},
 	"devDependencies": {
 		"@eslint/compat": "^1.2.5",

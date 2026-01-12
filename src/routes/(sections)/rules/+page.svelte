@@ -24,7 +24,7 @@
 
 <article>
 	<header>
-		<h2 class="h2 text-center">Rules for our tournaments</h2>
+		<h2 class="h2 text-center text-primary-400-600">Rules for our tournaments</h2>
 	</header>
 	<div class="card">
 		<section class="space-y-4">
