@@ -4,13 +4,8 @@
 @import '@skeletonlabs/skeleton';
 @import '@skeletonlabs/skeleton/optional/presets';
 @import '@skeletonlabs/skeleton/themes/cerberus';
+@import '@skeletonlabs/skeleton/themes/crimson';
 @import '@skeletonlabs/skeleton/themes/mint';
 @import '@skeletonlabs/skeleton/themes/rocket';
-@import '@skeletonlabs/skeleton/themes/nouveau';
-@import '@skeletonlabs/skeleton/themes/vintage';
-@import '@skeletonlabs/skeleton/themes/pine';
-@import '@skeletonlabs/skeleton/themes/rose';
-@import '@skeletonlabs/skeleton/themes/mona';
-@import '@skeletonlabs/skeleton/themes/fennec';
 
 @source '../node_modules/@skeletonlabs/skeleton-svelte/dist';

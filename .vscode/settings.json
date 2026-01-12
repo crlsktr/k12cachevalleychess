@@ -111,5 +111,6 @@
 		"track",
 		"width",
 		"zIndex"
-	]
+	],
+	"deno.enable": true
 }

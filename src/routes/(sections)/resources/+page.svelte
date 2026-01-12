@@ -1,4 +1,4 @@
-<h2 class="h2 text-center">Additional Resources</h2>
+<h2 class="h2 text-center text-primary-400-600">Additional Resources</h2>
 <div class="container mx-auto p-4">
 	<p class="h3 text-center">Check out these resources to help you prepare for the tournament!</p>
 </div>
