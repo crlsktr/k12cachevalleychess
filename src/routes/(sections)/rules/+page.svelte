@@ -18,7 +18,7 @@
 			summary: 'Tricky calls',
 			description: 'In any unclear situation, the Tournament Director will make the final decision'
 		},
-		{ summary: 'Clocks', description: 'Chess clocks may be used at TD discretion' }
+		{ summary: 'Clocks', description: 'Chess clocks may be used at TD discretion on the remaining tables to help wrap up a round' }
 	];
 </script>
 
@@ -31,9 +31,9 @@
 			<div class="text-token card w-full space-y-4 p-4">
 				<dl class="list-dl">
 					{#each rules as rule, index}
-						<div class="flex p-4">
-							<span class="badge-icon preset-filled-primary-200-800 p-4">{index}</span>
-							<span class="flex-auto">
+						<div class="grid grid-cols-12">
+							<span class="badge-icon col-span-1 preset-filled-primary-200-800 p-4">{index}</span>
+							<span class="flex-auto col-span-11 mb-6 ml-6">
 								<dt class="font-bold">{rule.summary}</dt>
 								<dd class="text-sm opacity-50">{rule.description}</dd>
 							</span>

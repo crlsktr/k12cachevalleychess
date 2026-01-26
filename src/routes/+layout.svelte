@@ -2,7 +2,7 @@
 	import '../app.css';
 	import { AppBar, Navigation } from '@skeletonlabs/skeleton-svelte';
 
-	import { BookOpenText, CircleUser, Dices, type Icon as IconType } from '@lucide/svelte';
+	import { BookOpenText, CircleUser, Dices, Medal, type Icon as IconType } from '@lucide/svelte';
 	import { base } from '$app/paths';
 	import { page } from '$app/state';
 
@@ -10,6 +10,7 @@
 	const links = [
 		{ label: 'Resources', href: `${base}/resources`, icon: Dices },
 		{ label: 'Rules', href: `${base}/rules`, icon: BookOpenText },
+		{ label: 'Prizes', href: `${base}/prizes`, icon: Medal },
 		{ label: 'Register', href: `${base}/register`, icon: CircleUser }
 	];
 </script>
