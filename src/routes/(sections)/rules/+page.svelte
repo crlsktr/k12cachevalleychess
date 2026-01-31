@@ -1,4 +1,5 @@
 <script lang="ts">
+	
 	const rules = [
 		{
 			summary: 'Play all your games',
