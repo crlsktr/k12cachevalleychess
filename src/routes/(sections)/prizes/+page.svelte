@@ -48,6 +48,10 @@
 						<dt class="font-bold">6-12 Section</dt>
 						<dd>Each grade gets: 1st Place $120 & Trophy, 2nd Place $70 , 3rd Place $30</dd>
 					</div>
+					<div class="p-4">
+						<dt class="font-bold">For all participants</dt>
+						<dd>If you play all your games in every round but don't qualify for a trophy or prize money you will still be awarded a prize</dd>
+					</div>
 				<ul>
 			</div>
 		</section>

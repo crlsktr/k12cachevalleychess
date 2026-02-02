@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { base } from '$app/paths';
-	import cover from '$lib/assets/hand.jpg'
+	import cover from '$lib/assets/hand.jpg';
 	import Socialfeed from '$lib/socialfeed.svelte';
 </script>
 
@@ -14,23 +14,36 @@
 
 	<div class="flex flex-col gap-4 md:flex-row-reverse md:justify-center md:justify-items-start">
 		<div
-			class="card preset-filled-surface-100-900 border-surface-200-800 card-hover divide-surface-200-800 block max-w-md divide-y border-[1px] p-8 lg:max-w-4xl"
+			class="card preset-filled-surface-100-900 border-surface-200-800 card-hover divide-surface-200-800 block max-w-md divide-y border-[1px] p-4 lg:max-w-4xl"
 		>
-			<header>
-				<h2 class="h2 text-center">We're ready for the 2026 Tournament!</h2>
-				
-			</header>
-			<article>
-				<div class="">
-					<p class="m-4">It's been an great year and we hope you're exicted about the 9th Warren Pugh Memorial Tournament as much as we are.</p>
-					<p class="m-4">This year's tournament will be filled with exiting opportunities, fun new friends, and amazing prizes.</p>
-					<p class="m-4">Come and join us on March 7th at the Logan Public Library</p>
+			<article class="relative">
+				<img
+					class="min-w-full object-cover object-left-top opacity-30"
+					alt="child playing chess"
+					src={cover}
+				/>
+				<div class="absolute inset-10">
+					<h2 class="h2 text-center">We're ready for the 2026 Tournament!</h2>
+					<p class="m-4">
+						It's been an great year and we hope you're exicted about the 9th Warren Pugh Memorial
+						Tournament as much as we are.
+					</p>
+					<p class="m-4">
+						This year's tournament will be filled with exiting opportunities, fun new friends, and
+						amazing prizes.
+					</p>
+					<p class="m-4">Come and join us on March 7th, 2026 at</p>
+					<p class="bg-surface-50-950 m-4 rounded-md p-4 text-center text-lg">
+						Logan Public Library starting at 1:00 PM
+						<button class="btn preset-filled-primary-50-950 m-4">
+							<a class="anchor text-surface-950-50 text-center" href={`${base}/register`}>
+								Register Here!
+							</a>
+						</button>
+					</p>
 				</div>
-				<img class="aspemax-h-72 min-w-full object-cover object-left-top opacity-80" alt="child playing chess" src={cover} />
-				
 			</article>
 		</div>
 		<Socialfeed></Socialfeed>
-		
 	</div>
 </article>
