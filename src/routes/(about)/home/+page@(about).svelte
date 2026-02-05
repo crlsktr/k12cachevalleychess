@@ -25,11 +25,11 @@
 				<div class="absolute inset-10">
 					<h2 class="h2 text-center">We're ready for the 2026 Tournament!</h2>
 					<p class="m-4">
-						It's been an great year and we hope you're exicted about the 9th Warren Pugh Memorial
+						It's been an great year and we hope you're excited about the 9th Warren Pugh Memorial
 						Tournament as much as we are.
 					</p>
 					<p class="m-4">
-						This year's tournament will be filled with exiting opportunities, fun new friends, and
+						This year's tournament will be filled with exciting opportunities, fun new friends, and
 						amazing prizes.
 					</p>
 					<p class="m-4">Come and join us on March 7th, 2026 at</p>
