@@ -2,16 +2,16 @@
 	import '../app.css';
 	import { AppBar, Navigation } from '@skeletonlabs/skeleton-svelte';
 
-	import { BookOpenText, CircleUser, Dices, Medal, type Icon as IconType } from '@lucide/svelte';
+	import { BookOpenText, CircleUser, Dices, Medal, Menu, type Icon as IconType } from '@lucide/svelte';
 	import { base } from '$app/paths';
 	import { page } from '$app/state';
 
 	let { children } = $props();
 	const links = [
-		{ label: 'Resources', href: `${base}/resources`, icon: Dices },
-		{ label: 'Rules', href: `${base}/rules`, icon: BookOpenText },
-		{ label: 'Prizes', href: `${base}/prizes`, icon: Medal },
-		{ label: 'Register', href: `${base}/register`, icon: CircleUser }
+		{ label: 'Resources', href: `${base}/resources.html`, icon: Dices },
+		{ label: 'Rules', href: `${base}/rules.html`, icon: BookOpenText },
+		{ label: 'Prizes', href: `${base}/prizes.html`, icon: Medal },
+		{ label: 'Register', href: `${base}/register.html`, icon: CircleUser }
 	];
 </script>
 
@@ -34,12 +34,17 @@
 			{/snippet}
 			{#snippet trail()}
 				<Navigation.Bar classes="self-end" tilesClasses="justify-self-start">
+					<div class="block sm:hidden">
+						<Menu />
+					</div>
+					<div class="hidden space-x-2 sm:flex">
 					{#each links as { label, href, icon }}
 						{@const Icon = icon}
 						<Navigation.Tile {label} {href} selected={page.url.pathname === href}>
 							<Icon></Icon>
 						</Navigation.Tile>
 					{/each}
+					</div>
 				</Navigation.Bar>
 			{/snippet}
 			<!-- {#snippet headline()}

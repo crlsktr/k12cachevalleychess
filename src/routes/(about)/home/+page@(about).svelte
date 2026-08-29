@@ -14,7 +14,7 @@
 
 	<div class="flex flex-col gap-4 md:flex-row-reverse md:justify-center md:justify-items-start">
 		<div
-			class="card preset-filled-surface-100-900 border-surface-200-800 card-hover divide-surface-200-800 block max-w-md divide-y border-[1px] p-4 lg:max-w-4xl"
+			class="card preset-filled-surface-100-900 border-surface-200-800 card-hover divide-surface-200-800 block max-w-md divide-y border-[1px] lg:max-w-4xl"
 		>
 			<article class="relative">
 				<img

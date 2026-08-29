@@ -23,7 +23,7 @@
 					</article>
 					<article>
 						<p>
-							Registration is free<sup>1</sup> and closes February 28, 2026
+							Registration is free<sup>1</sup> and closes March 4, 2026
 						</p>
 						<p>You can register:</p>
 						<div class="grid grid-cols-10 m-4 gap-4">
